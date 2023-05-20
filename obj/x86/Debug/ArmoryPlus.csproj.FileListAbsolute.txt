@@ -1,0 +1,8 @@
+C:\Users\Dawidan\source\repos\ArmoryPlus\ArmoryPlus\bin\x86\Debug\ArmoryPlus.dll
+C:\Users\Dawidan\source\repos\ArmoryPlus\ArmoryPlus\bin\x86\Debug\ArmoryPlus.pdb
+C:\Users\Dawidan\source\repos\ArmoryPlus\ArmoryPlus\obj\x86\Debug\ArmoryPlus.csprojAssemblyReference.cache
+C:\Users\Dawidan\source\repos\ArmoryPlus\ArmoryPlus\obj\x86\Debug\ArmoryPlus.dll
+C:\Users\Dawidan\source\repos\ArmoryPlus\ArmoryPlus\obj\x86\Debug\ArmoryPlus.pdb
+C:\Users\Dawidan\source\repos\ArmoryPlus\ArmoryPlus\bin\x86\Debug\JetBrains.Annotations.dll
+C:\Users\Dawidan\source\repos\ArmoryPlus\ArmoryPlus\bin\x86\Debug\JetBrains.Annotations.xml
+C:\Users\Dawidan\source\repos\ArmoryPlus\ArmoryPlus\obj\x86\Debug\ArmoryPlus.csproj.CopyComplete
